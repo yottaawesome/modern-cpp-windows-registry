@@ -12,3 +12,4 @@ You can simply clone this repo and open the SLN file `ModernCppWinReg.sln` locat
 
 * Giovanni Dicanio's [GitHub account](https://github.com/GiovanniDicanio)
 * Giovanni Dicanio's [WinReg library](https://github.com/GiovanniDicanio/WinReg)
+* [MSDN Registry docs](https://docs.microsoft.com/en-us/windows/win32/sysinfo/registry)
